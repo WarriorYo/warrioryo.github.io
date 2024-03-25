@@ -1,6 +1,23 @@
 {
     "title":"WarriorYo",
-    "subTitle":"童话是一种生活态度，仅此而已。",
+    "subTitle":"无需害怕，无需绝望。Viva La Vida",
     "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
-    "GMEEK_VERSION":"last"
+    "GMEEK_VERSION":"last",
+    "displayTitle":"WarriorYo",
+    "homeUrl":"http://blog.warrioryo.com",
+    "faviconUrl":"https://github.githubassets.com/favicons/favicon.svg",
+    "email":"warrioryo@qq.com",
+    "startSite":"03/25/2024",
+    "filingNum":"浙ICP备20023628号",
+    "onePageListNum":15,
+    "singlePage":[],
+    "commentLabelColor":"#006b75",
+    "yearColorList":["#bc4c00", "#0969da", "#1f883d", "#A333D0"],
+    "i18n":"CN",
+    "UTC":8,
+    "dayTheme":"light",
+    "nightTheme":"dark_colorblind",
+    "urlMode":"pinyin",
+    "style":"<style>#postBody{font-size:20px}</style>",
+    "script":"<script async src='//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js'></script>"
 }
